@@ -15,4 +15,4 @@ This repository contains the submission files for the project.
 ## Additional Notes
 
 - Ensure that you have all necessary dependencies installed before running the notebooks.
-- For any questions or issues regarding the code, please contact [Your Name or Contact Information].
+- For any questions or issues regarding the code, please contact Aditya Parameshwaran[adiparamesh@gmail.com].
